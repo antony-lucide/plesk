@@ -18,3 +18,16 @@ body{
     margin: 50px; 
     margin-top: 19px;
 }
+
+.Credit{
+    font-family: 'Open Sans' , sans-serif;
+}
+
+.Travaux{
+    display: flex;
+    justify-self: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+}
